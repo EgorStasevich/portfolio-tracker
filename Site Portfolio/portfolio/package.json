@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-clone",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "clone:framer": "node scripts/clone-framer.mjs",
+    "sync:framer": "node scripts/sync-framer.mjs",
     "sync:notion": "node scripts/sync-notion-cases.mjs",
     "sync:notion:experience": "node scripts/sync-notion-experience.mjs"
   },

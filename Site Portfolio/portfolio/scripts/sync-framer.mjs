@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url'
 const BASE_URL = 'https://easy-statuses-589727.framer.app'
 const BASE_HOST = new URL(BASE_URL).host
 const ALLOWED_HOSTS = new Set([BASE_HOST, 'framerusercontent.com'])
-const USER_AGENT = 'Mozilla/5.0 (compatible; local-clone-script/1.0)'
+const USER_AGENT = 'Mozilla/5.0 (compatible; local-portfolio-script/1.0)'
 const FRAMER_EDITOR_INIT_URL = 'https://framer.com/edit/init.mjs'
 const LOCAL_EDITOR_INIT_URL = '/site/_assets/editor/init.mjs'
 const EDITOR_INIT_PLACEHOLDER = '// Local placeholder for Framer editor preload.\n'
@@ -370,7 +370,7 @@ async function getSitemapPageUrls() {
   }
 }
 
-async function runClone() {
+async function runSync() {
   const state = createState()
 
   await mkdir(outputRoot, { recursive: true })
@@ -406,7 +406,7 @@ async function runClone() {
   console.log('Local entry point: /site/index.html')
 }
 
-runClone().catch((error) => {
+runSync().catch((error) => {
   console.error(error)
   process.exitCode = 1
 })

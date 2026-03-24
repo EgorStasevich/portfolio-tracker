@@ -1402,7 +1402,7 @@ function App() {
       <main className="static-shell">
         <section className="status-block">
           <h1>Page Not Found</h1>
-          <p>{currentRouteError ?? 'This route does not exist in the local portfolio clone.'}</p>
+          <p>{currentRouteError ?? 'This route does not exist in the local portfolio.'}</p>
           <button type="button" onClick={() => navigate('/')}>
             Go Home
           </button>
