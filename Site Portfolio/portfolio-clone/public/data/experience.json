@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-03-24T00:59:17.050Z",
+  "items": [
+    {
+      "id": "32d3192f-b767-8169-83c6-cdd9bfec86ab",
+      "role": "Teacher of UX/UI Design",
+      "timeline": "Feb 2023 – Sep 2025",
+      "paragraph": "Taught UX/UI fundamentals, interface design, and motion principles to groups of 10–15 students. Developed course materials covering Figma, user flows, prototyping, and product thinking. Mentored students through real projects and portfolio preparation.",
+      "company": "My IT School",
+      "location": "Minsk, Belarus",
+      "order": 2,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/My-IT-School-Teacher-of-UX-UI-Design-32d3192fb767816983c6cdd9bfec86ab"
+    },
+    {
+      "id": "32d3192f-b767-81dd-8e0c-f0cfd50121ed",
+      "role": "Senior Product Designer",
+      "timeline": "Jan 2023 – Aug 2023",
+      "paragraph": "Redesigned a full Web3 trading platform (v2.0 → v3.0) improving usability and performance. Streamlined trading flows, built component-based UI system, and introduced new interaction patterns. Delivered responsive, accessible, and high-impact product experiences.",
+      "company": "STFX",
+      "location": "Remote",
+      "order": 3,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/STFX-Senior-Product-Designer-32d3192fb76781dd8e0cf0cfd50121ed"
+    },
+    {
+      "id": "32d3192f-b767-81c2-88d8-df2ee7b74d04",
+      "role": "Senior Product Designer",
+      "timeline": "Dec 2021 – Dec 2022",
+      "paragraph": "Designed cross-chain swap interfaces for Ethereum, Polygon, and Arbitrum. Conducted competitor analysis, improved UX for transaction flow, and enhanced consistency. Delivered production-ready UI kits and web experiences for token launch.",
+      "company": "Magpie Protocol",
+      "location": "Remote",
+      "order": 4,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/Magpie-Protocol-Senior-Product-Designer-32d3192fb76781c288d8df2ee7b74d04"
+    },
+    {
+      "id": "32d3192f-b767-8158-945d-d4f4cde450e6",
+      "role": "Senior Product Designer",
+      "timeline": "Dec 2021 – Dec 2022",
+      "paragraph": "Designed trading dashboards and tools for algorithmic and DeFi users. Created unified visual language for multiple products and simplified trading workflows. Focused on data visualization, usability, and seamless onboarding experience.",
+      "company": "Autonio Foundation",
+      "location": "Remote",
+      "order": 5,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/Autonio-Foundation-Senior-Product-Designer-32d3192fb7678158945dd4f4cde450e6"
+    },
+    {
+      "id": "32d3192f-b767-8138-b694-c22bce4bd270",
+      "role": "Teacher of UX/UI Design",
+      "timeline": "Apr 2021 – Feb 2022",
+      "paragraph": "Conducted UX/UI bootcamps for beginners and junior designers. Taught product logic, usability testing, and visual design principles. Helped students transition into freelance and startup design roles.",
+      "company": "MyFreedom School",
+      "location": "Minsk, Belarus",
+      "order": 6,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/MyFreedom-School-Teacher-of-UX-UI-Design-32d3192fb7678138b694c22bce4bd270"
+    },
+    {
+      "id": "32d3192f-b767-81ed-9c6f-f123dc37dcad",
+      "role": "UX/UI Designer",
+      "timeline": "Jun 2020 – Sep 2021",
+      "paragraph": "Developed design solutions for data-driven marketing and analytics platforms. Worked on user flows, prototypes, and interaction patterns that improved user engagement and retention. Collaborated with marketing and development teams to create a unified experience across platforms.",
+      "company": "FORTVISION",
+      "location": "Minsk, Belarus",
+      "order": 7,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/FORTVISION-UX-UI-Designer-32d3192fb76781ed9c6ff123dc37dcad"
+    },
+    {
+      "id": "32d3192f-b767-8135-8063-d1dff6d7304c",
+      "role": "UX/UI Designer",
+      "timeline": "Jun 2019 – May 2020",
+      "paragraph": "Created website designs, landing pages, and marketing visuals for digital campaigns. Improved user experience through analytics and rapid prototyping. Balanced aesthetics with conversion-oriented product goals.",
+      "company": "Reason Room",
+      "location": "Minsk, Belarus",
+      "order": 8,
+      "updatedAt": "2026-03-24T00:52:00.000Z",
+      "notionUrl": "https://www.notion.so/Reason-Room-UX-UI-Designer-32d3192fb76781358063d1dff6d7304c"
+    }
+  ]
+}

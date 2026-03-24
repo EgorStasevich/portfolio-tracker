@@ -1,0 +1,281 @@
+{
+  "generatedAt": "2026-03-24T00:59:00.048Z",
+  "cases": [
+    {
+      "id": "32c3192f-b767-81fe-abcc-de764812dbf5",
+      "slug": "nebula-finance-dashboard",
+      "title": "Nebula Finance Dashboard",
+      "cardDescription": "AI-powered analytics dashboard for crypto portfolio teams.",
+      "cardImage": "https://picsum.photos/seed/nebula-card/1200/900",
+      "tags": [],
+      "order": 1,
+      "updatedAt": "2026-03-23T23:30:00.000Z",
+      "notionUrl": "https://www.notion.so/Nebula-Finance-Dashboard-32c3192fb76781feabccde764812dbf5",
+      "contentHtml": "",
+      "projectSummary": "Nebula is a finance analytics workspace for tracking treasury performance, portfolio risk, and token allocation scenarios in one place.",
+      "role": "Lead Product Designer",
+      "problem": "Analysts were juggling multiple spreadsheets and tools, causing delays in reporting and poor visibility for leadership.",
+      "results": [
+        "+32% faster weekly reporting cycle",
+        "-41% time spent on manual data prep",
+        "Adoption reached 78% across internal teams in 6 weeks",
+        "Stakeholder confidence improved with real-time metrics"
+      ],
+      "introHeading": "Understanding the Workflow",
+      "introBody": "We interviewed analysts and PMs to map their reporting routines, then identified key pain points in data consolidation and stakeholder handoff.",
+      "middleHeading": "Designing for Speed",
+      "middleBody": "We prioritized fast drill-downs, persistent filters, and reusable report templates to reduce repetitive tasks.",
+      "finalHeading": "Outcome",
+      "finalBody": "The final experience delivered clearer KPI storytelling and reduced reporting friction across the organization.",
+      "heroImage": "https://picsum.photos/seed/nebula-hero/1600/950",
+      "imageGallery": [
+        "https://picsum.photos/seed/nebula-1/1400/900",
+        "https://picsum.photos/seed/nebula-2/1400/900",
+        "https://picsum.photos/seed/nebula-3/1400/900",
+        "https://picsum.photos/seed/nebula-4/1400/900",
+        "https://picsum.photos/seed/nebula-5/1400/900",
+        "https://picsum.photos/seed/nebula-6/1400/900"
+      ],
+      "tickerCarouselOne": [
+        "https://picsum.photos/seed/nebula-c1-1/900/900",
+        "https://picsum.photos/seed/nebula-c1-2/900/900",
+        "https://picsum.photos/seed/nebula-c1-3/900/900"
+      ],
+      "tickerCarouselTwo": [
+        "https://picsum.photos/seed/nebula-c2-1/900/900",
+        "https://picsum.photos/seed/nebula-c2-2/900/900",
+        "https://picsum.photos/seed/nebula-c2-3/900/900"
+      ]
+    },
+    {
+      "id": "32c3192f-b767-8009-8552-f6d035d85c68",
+      "slug": "2",
+      "title": "Тест 2",
+      "cardDescription": "",
+      "cardImage": null,
+      "tags": [],
+      "order": 2,
+      "updatedAt": "2026-03-23T23:30:00.000Z",
+      "notionUrl": "https://www.notion.so/2-32c3192fb76780098552f6d035d85c68",
+      "contentHtml": "",
+      "projectSummary": "",
+      "role": "",
+      "problem": "",
+      "results": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "introHeading": "",
+      "introBody": "",
+      "middleHeading": "",
+      "middleBody": "",
+      "finalHeading": "",
+      "finalBody": "",
+      "heroImage": null,
+      "imageGallery": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "tickerCarouselOne": [
+        null,
+        null,
+        null
+      ],
+      "tickerCarouselTwo": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "32c3192f-b767-81fe-b6c0-fc9416afa6dc",
+      "slug": "atlas-travel-planner",
+      "title": "Atlas Travel Planner",
+      "cardDescription": "Collaborative itinerary builder for modern travel teams.",
+      "cardImage": "https://picsum.photos/seed/atlas-card/1200/900",
+      "tags": [],
+      "order": 3,
+      "updatedAt": "2026-03-23T23:30:00.000Z",
+      "notionUrl": "https://www.notion.so/Atlas-Travel-Planner-32c3192fb76781feb6c0fc9416afa6dc",
+      "contentHtml": "",
+      "projectSummary": "Atlas helps travelers coordinate routes, bookings, and shared plans with friends and family in one lightweight interface.",
+      "role": "Senior Product Designer",
+      "problem": "Users struggled to merge links, maps, and bookings across chats, resulting in duplicated effort and missed reservations.",
+      "results": [
+        "Trip planning time reduced by 37%",
+        "+24% increase in completed shared itineraries",
+        "Support tickets about booking confusion dropped by 29%",
+        "Higher NPS in post-trip surveys"
+      ],
+      "introHeading": "What We Learned",
+      "introBody": "Through diary studies, we found that trust and clarity in shared edits were the biggest blockers for group planning.",
+      "middleHeading": "System & Interaction",
+      "middleBody": "We introduced timeline-based editing, location clusters, and visual conflict warnings for overlapping plans.",
+      "finalHeading": "Impact",
+      "finalBody": "Atlas shipped with a clearer planning flow and better collaboration cues, making group trips less chaotic.",
+      "heroImage": "https://picsum.photos/seed/atlas-hero/1600/950",
+      "imageGallery": [
+        "https://picsum.photos/seed/atlas-1/1400/900",
+        "https://picsum.photos/seed/atlas-2/1400/900",
+        "https://picsum.photos/seed/atlas-3/1400/900",
+        "https://picsum.photos/seed/atlas-4/1400/900",
+        "https://picsum.photos/seed/atlas-5/1400/900",
+        "https://picsum.photos/seed/atlas-6/1400/900"
+      ],
+      "tickerCarouselOne": [
+        "https://picsum.photos/seed/atlas-c1-1/900/900",
+        "https://picsum.photos/seed/atlas-c1-2/900/900",
+        "https://picsum.photos/seed/atlas-c1-3/900/900"
+      ],
+      "tickerCarouselTwo": [
+        "https://picsum.photos/seed/atlas-c2-1/900/900",
+        "https://picsum.photos/seed/atlas-c2-2/900/900",
+        "https://picsum.photos/seed/atlas-c2-3/900/900"
+      ]
+    },
+    {
+      "id": "32c3192f-b767-80d8-b2e9-f50457285754",
+      "slug": "1",
+      "title": "Юля Самая лучшая",
+      "cardDescription": "This is the project tagline",
+      "cardImage": null,
+      "tags": [],
+      "order": 4,
+      "updatedAt": "2026-03-23T23:31:00.000Z",
+      "notionUrl": "https://www.notion.so/32c3192fb76780d8b2e9f50457285754",
+      "contentHtml": "",
+      "projectSummary": "Streamline CRM was an outdated sales platform with a cluttered UI and inconsistent workflows. I led a full redesign to modernize the experience and improve usability for everyday tasks.",
+      "role": "Senior Product Designer",
+      "problem": "Users struggled with confusing navigation, inconsistent layouts, and too many steps to complete simple actions—hurting adoption and productivity.",
+      "results": [
+        "40% increase in active weekly users within 3 months",
+        "Reduction in average task time by 35% for key workflows",
+        "Consistent 4.7/5 user satisfaction score in post-launch feedback",
+        "Internal teams reported fewer support requests and improved onboarding for new hires"
+      ],
+      "introHeading": "Understanding the Pain Points",
+      "introBody": "Early user interviews and session recordings made one thing clear: the product was getting in the way of the process.",
+      "middleHeading": "Redesigning with Intent",
+      "middleBody": "I began by mapping the most frequent workflows and identifying friction points at each step.",
+      "finalHeading": "In Conclusion",
+      "finalBody": "The redesign focused on removing friction, simplifying workflows, and improving clarity across the product.",
+      "heroImage": null,
+      "imageGallery": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "tickerCarouselOne": [
+        null,
+        null,
+        null
+      ],
+      "tickerCarouselTwo": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "32c3192f-b767-81d0-bd4d-da341f689b21",
+      "slug": "pulse-health-companion",
+      "title": "Pulse Health Companion",
+      "cardDescription": "Personal health tracking experience focused on habits and motivation.",
+      "cardImage": "https://picsum.photos/seed/pulse-card/1200/900",
+      "tags": [],
+      "order": 5,
+      "updatedAt": "2026-03-23T23:31:00.000Z",
+      "notionUrl": "https://www.notion.so/Pulse-Health-Companion-32c3192fb76781d0bd4dda341f689b21",
+      "contentHtml": "",
+      "projectSummary": "Pulse combines wearable metrics with guided routines to help users build sustainable daily habits.",
+      "role": "Product Designer",
+      "problem": "Most health apps overloaded users with numbers but failed to provide actionable next steps.",
+      "results": [
+        "+19% week-4 retention",
+        "+27% increase in daily check-ins",
+        "Improved completion rate of guided routines",
+        "Higher confidence scores in user interviews"
+      ],
+      "introHeading": "User Motivation",
+      "introBody": "We mapped drop-off points and discovered users needed simpler progress framing and smaller wins.",
+      "middleHeading": "Interaction Strategy",
+      "middleBody": "The product introduced progressive goals, adaptive reminders, and clearer daily summaries.",
+      "finalHeading": "What Changed",
+      "finalBody": "Pulse shifted from data-heavy reporting to behavior-first guidance, improving engagement over time.",
+      "heroImage": "https://picsum.photos/seed/pulse-hero/1600/950",
+      "imageGallery": [
+        "https://picsum.photos/seed/pulse-1/1400/900",
+        "https://picsum.photos/seed/pulse-2/1400/900",
+        "https://picsum.photos/seed/pulse-3/1400/900",
+        "https://picsum.photos/seed/pulse-4/1400/900",
+        "https://picsum.photos/seed/pulse-5/1400/900",
+        "https://picsum.photos/seed/pulse-6/1400/900"
+      ],
+      "tickerCarouselOne": [
+        "https://picsum.photos/seed/pulse-c1-1/900/900",
+        "https://picsum.photos/seed/pulse-c1-2/900/900",
+        "https://picsum.photos/seed/pulse-c1-3/900/900"
+      ],
+      "tickerCarouselTwo": [
+        "https://picsum.photos/seed/pulse-c2-1/900/900",
+        "https://picsum.photos/seed/pulse-c2-2/900/900",
+        "https://picsum.photos/seed/pulse-c2-3/900/900"
+      ]
+    },
+    {
+      "id": "32c3192f-b767-8168-8627-decb7c366734",
+      "slug": "vertex-ai-studio",
+      "title": "Vertex AI Studio",
+      "cardDescription": "Prompt testing and workflow automation tool for ops teams.",
+      "cardImage": "https://picsum.photos/seed/vertex-card/1200/900",
+      "tags": [],
+      "order": 6,
+      "updatedAt": "2026-03-23T23:31:00.000Z",
+      "notionUrl": "https://www.notion.so/Vertex-AI-Studio-32c3192fb76781688627decb7c366734",
+      "contentHtml": "",
+      "projectSummary": "Vertex enables non-technical teams to prototype AI workflows, compare prompts, and monitor output quality.",
+      "role": "Lead UX Designer",
+      "problem": "Operations teams lacked visibility into prompt quality and had no clear way to compare model outputs at scale.",
+      "results": [
+        "Prompt iteration cycles became 2.1x faster",
+        "Error rate in production automations dropped by 23%",
+        "Cross-team collaboration improved through shared experiments",
+        "Faster onboarding for new team members"
+      ],
+      "introHeading": "Discovery",
+      "introBody": "We mapped existing manual QA flows and identified missing trust signals in model output review.",
+      "middleHeading": "Design Principles",
+      "middleBody": "We focused on explainability, side-by-side comparisons, and confidence indicators for every run.",
+      "finalHeading": "Business Result",
+      "finalBody": "Vertex reduced experimentation friction and gave operations teams stronger control over AI quality.",
+      "heroImage": "https://picsum.photos/seed/vertex-hero/1600/950",
+      "imageGallery": [
+        "https://picsum.photos/seed/vertex-1/1400/900",
+        "https://picsum.photos/seed/vertex-2/1400/900",
+        "https://picsum.photos/seed/vertex-3/1400/900",
+        "https://picsum.photos/seed/vertex-4/1400/900",
+        "https://picsum.photos/seed/vertex-5/1400/900",
+        "https://picsum.photos/seed/vertex-6/1400/900"
+      ],
+      "tickerCarouselOne": [
+        "https://picsum.photos/seed/vertex-c1-1/900/900",
+        "https://picsum.photos/seed/vertex-c1-2/900/900",
+        "https://picsum.photos/seed/vertex-c1-3/900/900"
+      ],
+      "tickerCarouselTwo": [
+        "https://picsum.photos/seed/vertex-c2-1/900/900",
+        "https://picsum.photos/seed/vertex-c2-2/900/900",
+        "https://picsum.photos/seed/vertex-c2-3/900/900"
+      ]
+    }
+  ]
+}
